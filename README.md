@@ -4,3 +4,5 @@ The objective of this project is to predict whether an individula's income fall 
 The final Gradient Boosting Classifier model achieves 86.858% overall accuracy, 1.43% lower than best results found on Kaggle. https://www.kaggle.com/uciml/adult-census-income/kernels  
 
 The project uses over 10 different models to test which one is the most approriate for the underlying classification task, and fine tunes the optimal model.
+
+To run the Jupyter Notebook please put everything under a same folder.
